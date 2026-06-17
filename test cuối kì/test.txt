@@ -1,0 +1,18 @@
+Câu 02: (2.5 điểm)
+1.	Tạo form UI cho mã hoá và giải mã Rail Fence & Commit code (2.5 điểm)
+Câu 03: (2.5 điểm )
+1.	Tạo form UI cho mã hoá và giải mã RSA & Commit code (2.5 điểm)
+Câu 04: (2 điểm )
+1.	Push tất cả thay đổi lên remote repo (1 điểm) -> Lab06
+
+   2. Tạo PR từ Lab06 về main & Merge code (1 điểm)
+Câu 05: (2 điểm)
+   1. Tất cả các câu chụp hình kết quả, code thực hiện (1 hình đầu code) lưu vào file word báo cáo và viết report cho hình đó.
+   2. Sinh viên tự chấm điểm ở cuối file báo cáo theo phổ điểm đã quy định ở trên.
+------------
+*Lưu ý:
+- Viết report cho từng hình ảnh kết quả chụp vào.
+- Không clone từ repo có sẵn, phải là repo mới.
+- Không sao chép, chia sẻ bài cho nhau.
+- Có thể sử dung code đã làm của các bài trước để import vào, không cần code lại.
+- Commit code cho từng câu, không commit chung nhiều câu.
